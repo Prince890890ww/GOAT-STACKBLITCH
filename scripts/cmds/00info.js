@@ -15,12 +15,12 @@ module.exports = {
 		envConfig: {}
 	},
 	onStart: async function ({ message }) {
-		const authorName = " ⩸ᗷᗩᎩᒍᏆᗞ⩸ ";
-		const ownAge = "『 ⩸__17__⩸ 』";
+		const authorName = " 𝐄𝐖𝐑 𝐃𝐀𝐃𝐃𝐘 ";
+		const ownAge = "『 17 』";
 		const messenger = "https://m.me/100065506668822";
-		const authorFB = "https://www.facebook.com/profile.php?id=BAYJID.500k";
-		const authorNumber = "_01638007072";
-		const Status = "⩸__🆂🅸🅽🅶🅻🅴__⩸";
+		const authorFB = "https://www.facebook.com/pixxi0";
+		const authorNumber = "_𝗩𝗮𝗮𝗮𝗴 𝗵𝗲𝗻𝘁𝗲 𝗺𝗮𝗴𝗶 😪";
+		const Status = "⩸__🅜︎🅐︎🅡︎🅡︎🅘︎🅔︎🅓︎__⩸";
 		const urls = [
 "https://i.imgur.com/I8JSUWI.jpeg",
 "https://i.imgur.com/I8JSUWI.jpeg",
@@ -51,11 +51,11 @@ module.exports = {
 \⏰彡𝑁𝑜𝑤 𝑇𝑖𝑚𝑒 : ${time}
 \🔰彡𝐴𝑛𝑦 𝐻𝑒𝑙𝑝 𝐶𝑜𝑛𝑡𝑎𝑐𝑡 :⩸__${messenger}__⩸
 \📛彡𝐵𝑜𝑡 𝐼𝑠 𝑅𝑢𝑛𝑛𝑖𝑛𝑔 𝐹𝑜𝑟 : ${uptimeString}
-    𝑻𝒈: https://t.me/MOHAMMADBAYJID
-    𝑰𝒏𝒔𝒕𝒂: https://www.instagram.com/mr_bayjid120?
-    𝑪𝒂𝒑𝑪𝒖𝒕: copy_bayjid
-    𝑻𝒊𝒌𝑻𝒐𝒌: https://www.tiktok.com/@copy_bayjid?
-    𝒀𝒐𝒖𝑻𝒖𝒃𝒆: https://youtube.com/@Bayjid Editz?
+    𝑻𝒈: https://t.me/𝗘𝗪𝗥 𝗥𝗜𝗬𝗘𝗟 𝗗𝗔𝗗𝗗𝗬
+    𝑰𝒏𝒔𝒕𝒂: https://www.instagram.com/𝗡𝗮𝗶 🤡
+    𝑪𝒂𝒑𝑪𝒖𝒕:  𝗧𝗼𝗿𝗲 𝗯𝗼𝗶𝗹𝗮 𝗸𝗶 𝗵𝗼𝗶𝗯𝗼 😪
+    𝑻𝒊𝒌𝑻𝒐𝒌: 𝗕𝗼𝘀𝘁𝗶 𝗿𝗮 𝘂𝘀𝗲 𝗸𝗼𝗿𝗲 🤡🤙
+    𝒀𝒐𝒖𝑻𝒖𝒃𝒆:  𝗩𝗶𝗱𝗲𝗼 𝗱𝗲𝗸𝗵𝗶 𝘆𝗼𝘂𝘆𝘂𝗯𝗲 𝗮 🥸
 \===============`,
 			attachment: await global.utils.getStreamFromURL(link)
 		});
