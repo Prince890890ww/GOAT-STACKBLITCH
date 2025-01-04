@@ -20,11 +20,11 @@ config: {
      gender : 'Male',
       age: '17+',
       height: '𝗨𝗻𝗸𝗻𝗼𝘄𝗻',
-      facebook link: '𝗛𝘁𝘁𝗽𝘀://𝘄𝘄𝘄.𝗳𝗮𝗰𝗲𝗯𝗼𝗼𝗸.𝗰𝗼𝗺/𝗽𝗶𝘅𝘅𝗶0',
+      Facebook: '𝗛𝘁𝘁𝗽𝘀://𝘄𝘄𝘄.𝗳𝗮𝗰𝗲𝗯𝗼𝗼𝗸.𝗰𝗼𝗺/𝗽𝗶𝘅𝘅𝗶0',
       nick: '𝗣𝗜𝗫𝗫𝗜'
     };
 
-    const bold = 'https://i.imgur.com/2Rw7lmI.mp4'; // Replace with your Google Drive videoid link https://drive.google.com/uc?export=download&id=here put your video id
+    const bold = 'https://i.imgur.com/jqHFUHw.mp4'; // Replace with your Google Drive videoid link https://drive.google.com/uc?export=download&id=here put your video id
 
     const tmpFolderPath = path.join(__dirname, 'tmp');
 
